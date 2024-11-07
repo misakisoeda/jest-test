@@ -1,0 +1,9 @@
+# Node.js関連ファイル
+node_modules/
+npm-debug.log*
+
+# SASS関連ファイル
+.sass-cache/
+
+# MacOS関連ファイル
+.DS_Store
